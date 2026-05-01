@@ -18,7 +18,7 @@ A minimal, high-performance 64-bit micro-kernel core written in C++ and Assembly
 - linker.ld : Linker file.
 
 (3) . License : The kernel use GNU GPL v3.0
-(4) . Mission & Goals:
+(4) . Mission && Goals:
 The Mini-UIA kernel is not just "another kernel"; it is designed to be the kernel for:
 - Supercomputers: Optimizing raw performance with direct LAPIC and memory control, ... ;
 -  Servers: Ensuring stability and high-throughput data management, ... ;
