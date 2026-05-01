@@ -22,7 +22,7 @@ A minimal, high-performance 64-bit micro-kernel core written in C++ and Assembly
 The Mini-UIA kernel is not just "another kernel"; it is designed to be the kernel for:
 - Supercomputers: Optimizing raw performance with direct LAPIC and memory control, ... ;
 -  Servers: Ensuring stability and high-throughput data management, ... ;
--  Users / Developers: Providing a clean, documented base for future OS enthusiasts to build upon, ... ;
+-  Users / Developers: Providing a clean, documented base for future kernel enthusiasts to build upon, ... ;
 -   Embedded Systems: Lightweight core for specialized hardware and IoT, ...
 -   (...)
 
