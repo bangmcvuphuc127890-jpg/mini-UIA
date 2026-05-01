@@ -1,8 +1,4 @@
-		 __  ____       _          __  _______ ___ 
-   /  |/  (_)___  (_)        / / / /  _  /   |
-  / /|_/ / / __ \/ / ______ / / / / / | / /| |
- / /  / / / / / / / /_____// /_/ / /  |/ ___ |
-/_/  /_/_/_/ /_/_/         \____/_/   /_/  |_|
+```Hi!
 
 ** -- ** -- ** -- ** -- ** -- ** -- ** -- ** --**
 
@@ -31,6 +27,7 @@ The Mini-UIA kernel is not just "another kernel"; it is designed to be the kerne
 -   (...)
 
 ** -- ** -- ** -- ** -- ** -- ** -- ** -- ** -- ** -- **
+
 (i) The Mini-UIA is a free micro-kernel!
 ... && Note:
 Open for All: Everyone is welcome to contribute code and improve the hạch tâm. Feel free to open Pull Requests!
